@@ -1,3 +1,3 @@
 # Java-programming
-Basic to intermediate
-1 hello world
+Basic to intermediate\n
+1. hello world
