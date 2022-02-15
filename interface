@@ -1,0 +1,43 @@
+package new_JAVA_project;
+
+public interface Aclass {
+	void vaani();
+
+}
+public interface Cclass {
+	void abc();
+}
+public interface Dclass {
+	void xyz();
+}
+
+public class Bclass implements Aclass,Cclass,Dclass{
+
+	public void vaani() {
+		System.out.println("class A");
+		
+	}
+
+	public void xyz() {
+		System.out.println("class D");
+		
+	}
+
+	public void abc() {
+		System.out.println("class C");
+		
+	}
+
+}
+public class MainClass2 {
+
+	public static void main(String[] args) {
+		Bclass obj=new Bclass();
+		obj.vaani();
+		obj.abc();
+		obj.xyz();
+
+	}
+
+}
+
