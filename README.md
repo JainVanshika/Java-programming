@@ -5,3 +5,4 @@ Basic to intermediate
 3. static keyword
 4. interface
 5. inner class(nested class)
+6. Program to copy all elements of one array into another array
