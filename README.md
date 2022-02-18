@@ -8,3 +8,4 @@ Basic to intermediate
 6. Program to copy all elements of one array into another array
 7. number to word
 8. duplicate element of an array
+9. transpose
