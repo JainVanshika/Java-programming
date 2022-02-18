@@ -6,3 +6,5 @@ Basic to intermediate
 4. interface
 5. inner class(nested class)
 6. Program to copy all elements of one array into another array
+7. number to word
+8. duplicate element of an array
