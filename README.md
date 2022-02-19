@@ -9,3 +9,6 @@ Basic to intermediate
 7. number to word
 8. duplicate element of an array
 9. transpose
+10. left rotate array
+11. peterson number
+12. automorphic number
